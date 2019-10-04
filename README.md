@@ -1,6 +1,6 @@
 **Day Nineteen - 30 days of React challenge - "Party RSVP" app**
 
-An interface which collects and holds user RSVP's for a party.
+An interface which collects and holds user RSVP's for a party. 
 
 **Concepts Explored:**
 - Conditional Rendering
